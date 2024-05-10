@@ -1,0 +1,10 @@
+streamlit>=1.33.0
+pandas
+folium
+streamlit_folium
+geopandas
+branca
+matplotlib
+seaborn
+joblib
+numpy
